@@ -51,7 +51,8 @@ expertise.
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/TryHackMe-Security%2B-FF0000?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe Security+ Badge" />
+<img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-00FF00?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe SOC Level 1 Badge" />
+    <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%202-FFA500?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe SOC Level 2 Badge" />
 </div>
 
 ## Projects
