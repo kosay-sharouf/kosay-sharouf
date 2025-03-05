@@ -1,12 +1,10 @@
 # Hello, I'm Kosay Sharouf
 <a href="https://www.linkedin.com/in/kosay-sharouf-969152199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 Passionate SOC Analyst with +1 year of hands-on experience in cybersecurity, specializing in threat detection, incident
 response, and vulnerability management. Proficient in utilizing SIEM tools to monitor and analyze security events, along
@@ -15,16 +13,17 @@ ensure a resilient and secure cyber infrastructure. Prepared to address evolving
 expertise.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Tools        |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation         | Splunk, Elastic Stack (ELK)  |
+|  Operating System | Windows , Linux ( Ubuntu , Kali ) |
+| Cybersecurity Tools         | Wireshark , Zeek , Brim |
+| Endpoint Security Monitoring     | Sysinternals , Osqurey , Wazuh , Windows Event Log |
+| Threat Intelligence                  | MITRE ATT&CK, MISP, OpenCTI , Cyber Kill Chain Analyst |
+| Digital Forensics and Incident Response | Autopsy , KAPE |
+| Phishing Analysis Tools | VirusTotal , urlscan.io |
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
