@@ -56,5 +56,5 @@ expertise.
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+-  <a href="https://github.com/kosay-sharouf/Home-Lab"></a> Build Home Lab - SOC Automation
+-  <a href="https://github.com/kosay-sharouf/Build-ElasticStack-ELK-Lab"></a> Build-ElasticStack-ELK-Lab
