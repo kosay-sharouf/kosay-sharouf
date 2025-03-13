@@ -56,5 +56,5 @@ expertise.
 </div>
 
 ## Projects
--  <a href="https://github.com/kosay-sharouf/Home-Lab"></a> Build Home Lab - SOC Automation
--  <a href="https://github.com/kosay-sharouf/Build-ElasticStack-ELK-Lab"></a> Build-ElasticStack-ELK-Lab
+-  <a href="https://github.com/kosay-sharouf/Home-Lab">Build Home Lab - SOC Automation</a> 
+-  <a href="https://github.com/kosay-sharouf/Build-ElasticStack-ELK-Lab">Build-ElasticStack-ELK-Lab</a> 
